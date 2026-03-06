@@ -11,25 +11,6 @@
   <b>A lightweight, real-time system monitoring tool built with Bash Shell Script</b>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/system-health-monitor/main/screenshot.png" alt="Screenshot" width="600">
-</p>
-
----
-
-## 📋 Table of Contents
-
-- [About](#-about)
-- [Features](#-features)
-- [Demo](#-demo)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Commands Used](#-commands-used)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [License](#-license)
-
 ---
 
 ## 🔍 About
@@ -60,4 +41,4 @@ Perfect for:
 
 ---
 
-## 🎬 Demo
+## 🎬 Demo Output
